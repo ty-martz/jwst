@@ -3,4 +3,5 @@
 ----
 
 ### Website
-[https://jwstapi.com/]!(https://jwstapi.com/)
+- [Main Site](https://jwstapi.com/)
+- [API Docs](https://documenter.getpostman.com/view/10808728/UzQyphjT#intro)
